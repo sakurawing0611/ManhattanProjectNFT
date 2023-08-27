@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
-  "SCAN_LINK": "https://polygonscan.com/token/0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
+  "CONTRACT_ADDRESS": "0x941086b771313f641A4f4b1A86fFf267BEDdad93",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0x941086b771313f641a4f4b1a86fff267beddad93",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "Goerli",
+    "SYMBOL": "ETH",
+    "ID": 84531
   },
-  "NFT_NAME": "The Stripes NFT",
-  "SYMBOL": "TSNFT",
-  "MAX_SUPPLY": 992,
+  "NFT_NAME": "Manhattan Project",
+  "SYMBOL": "MANH",
+  "MAX_SUPPLY": 100,
   "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 4,
+  "DISPLAY_COST": 0,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/manhattanproject-2",
   "SHOW_BACKGROUND": true
 }
